@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="tomatoLite:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tomatoLite_jar</output-path>
+    <root id="archive" name="tomatoLite.jar">
+      <element id="module-output" name="tomatoLite" />
+    </root>
+  </artifact>
+</component>
